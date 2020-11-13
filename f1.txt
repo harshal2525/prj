@@ -1,5 +1,7 @@
 Hello Harshal.I am good.new
 
-new f1
 
-Hi I am from feature1.
+Hello Harshal.
+
+Hello I am from feature2.
+
